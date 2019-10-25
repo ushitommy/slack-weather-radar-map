@@ -251,7 +251,7 @@ const prefectures: { [name: string]: Prefecture } = {
     shiga: new Prefecture('滋賀県', 35.00444, 135.86833),
     kyoto: new Prefecture('京都府', 35.02139, 135.75556),
     osaka: new Prefecture('大阪府', 34.68639, 135.52),
-    hyogo: new Prefecture('兵庫県', 34.69139, 135.18306),
+    hyogo: new Prefecture('兵庫県', 34.93228, 134.89879114),
     nara: new Prefecture('奈良県', 34.68528, 135.83278),
     wakayama: new Prefecture('和歌山県', 34.22611, 135.1675),
     tottori: new Prefecture('鳥取県', 35.50361, 134.23833),
